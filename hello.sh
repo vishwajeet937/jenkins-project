@@ -1,4 +1,4 @@
-echo "Welcome to the Jenkins Hell 😒"
+echo "Welcome to the Jenkins Hello 😒"
 echo "User : $(whoami)"
 echo "Hostname : $(hostname)"
 echo "Current Directory : $(pwd) "
