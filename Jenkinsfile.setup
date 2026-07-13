@@ -1,0 +1,9 @@
+pipeline {
+    agent {label 'electronix'}
+
+    stages {
+      stage("Tool Configure"){
+        steps {echo "Tools Installtion pipeline"}
+    }
+ }
+}
